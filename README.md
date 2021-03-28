@@ -9,7 +9,7 @@ Affiliations:
 2. Russell H. Morgan Department of Radiology and Radiological Science, The Johns Hopkins University School of Medicine, Baltimore, MD, USA
 Matlab version: (R2020b)
 
-This toolbox contains demo Matlab code and example dataset for extracting amideCEST with PLOF [1-2] and MLSVD [3] methods at 3T. The PLOF method is one updated version with new background fitting function that is suitable for the CEST peaks close to water (PLOF 2.0) such as amideCEST and creatine CEST. The related publication is
+This toolbox contains demo Matlab code and example dataset for extracting amideCEST with both PLOF [1-2] and MLSVD [3] methods at 3T. The PLOF method is one updated version with a new background fitting function that is suitable for the CEST peaks close to water (PLOF 2.0) such as amideCEST and creatine CEST. The related publication is
 
 Ran Sui+, Lin Chen+, Kannie W. Y. Chan, Yuguo Li, Jianpan Huang, Xiang Xu, Peter C. M. van Zijl, Jiadi Xu* “Whole-brain amide CEST imaging at 3T with a steady-state radial MRI acquisition ”, Magnetic Resonance in Medicine, (2021) http://doi.org/10.1002/mrm.28770.
 
@@ -26,4 +26,4 @@ https://github.com/LinChenMRI/PLOF.git
 2. MLSVD method
 https://github.com/LinChenMRI/MLSVD-CEST/
 
-[1] Lin Chen*, Suyi Cao, Raymond C. Koehler, Peter C. M. van Zijl, Jiadi Xu,High\uc0\u8208 sensitivity CEST mapping using a spatiotemporal correlation\u8208 enhanced method. Magn Reson Med. 2020;https://doi.org/10.1002/mrm.28380
+[3] Lin Chen*, Suyi Cao, Raymond C. Koehler, Peter C. M. van Zijl, Jiadi Xu,High\uc0\u8208 sensitivity CEST mapping using a spatiotemporal correlation\u8208 enhanced method. Magn Reson Med. 2020;https://doi.org/10.1002/mrm.28380
