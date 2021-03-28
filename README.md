@@ -2,7 +2,7 @@ Matlab toolbox of polynomial and Lorentzian line-shape fitting (PLOF) method for
 
 Authors: Ran Sui, Lin Chen, Jiadi Xu*
 
-Email:chenlin0430@gmail.com; Jiadixujhu@gmail.com
+Email:Jiadixujhu@gmail.com
 
 Affiliations: 
 1. F.M. Kirby Research Center for Functional Brain Imaging, Kennedy Krieger Research Institute, Baltimore, Maryland, USA
