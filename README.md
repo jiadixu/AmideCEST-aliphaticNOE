@@ -1,4 +1,4 @@
-Matlab toolbox of polynomial and Lorentzian line-shape fitting (PLOF) for amideCEST mapping of human brain at 3T
+Matlab toolbox of polynomial and Lorentzian line-shape fitting (PLOF) method for the amideCEST mapping of human brain at 3T
 
 Authors: Ran Sui, Lin Chen, Jiadi Xu*
 Email:chenlin0430@gmail.com; Jiadixujhu@gmail.com
