@@ -26,4 +26,4 @@ https://github.com/LinChenMRI/PLOF.git
 2. MLSVD method
 https://github.com/LinChenMRI/MLSVD-CEST/
 
-[3] Lin Chen*, Suyi Cao, Raymond C. Koehler, Peter C. M. van Zijl, Jiadi Xu,High\uc0\u8208 sensitivity CEST mapping using a spatiotemporal correlation\u8208 enhanced method. Magn Reson Med. 2020;https://doi.org/10.1002/mrm.28380
+[3] Lin Chen*, Suyi Cao, Raymond C. Koehler, Peter C. M. van Zijl, Jiadi Xu,High-sensitivity CEST mapping using a spatiotemporal correlation enhanced method. Magn Reson Med. 2020;https://doi.org/10.1002/mrm.28380
